@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "normal",
+            "text": "I'm getting in the way of your song?"
+        },
+        {
+            "expression": "normal",
+            "text": "Maybe you should've thought a bit more about \nletting me talk so much, then. You could've \njust said no."
+        }
+    ]
+}

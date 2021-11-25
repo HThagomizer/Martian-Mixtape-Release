@@ -1,0 +1,14 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "rage",
+            "text": "With my face plastered over this place, you \ncould've GUESSED that INSULTING my HAIR \nwouldn't go down well."
+        },
+        {
+            "text": "And you STILL DID IT!!! IMBECILE!!!"
+        }
+    ]
+}

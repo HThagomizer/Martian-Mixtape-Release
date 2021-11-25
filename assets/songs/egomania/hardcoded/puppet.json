@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "laugh",
+            "text": "Look, now I'm everyone's favorite loveable \ngreen martian! Look at me go!!"
+        },
+        {
+            "expression": "ugh",
+            "text": "...That's what we call a joke. You laugh \nat those."
+        }
+    ]
+}

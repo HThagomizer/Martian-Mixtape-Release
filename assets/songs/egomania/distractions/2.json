@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "normal",
+            "text": "I've never heard of 'madness combat'. No \nidea what it is."
+        },
+        {
+            "expression": "ugh",
+            "text": "Who the hell is Hank Wimbleton?"
+        }
+    ]
+}

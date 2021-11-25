@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "normal",
+            "text": "MY NAME IS HARRIS. OR HANK."
+        },
+        {
+            "expression": "normal",
+            "text": "IF YOU RAP BATTLE ME OUT OF NOWHERE \nITS WITHIN MY CONSTITUTIONAL RIGHTS \nTO BE MEAN TO YOU"
+        }
+    ]
+}

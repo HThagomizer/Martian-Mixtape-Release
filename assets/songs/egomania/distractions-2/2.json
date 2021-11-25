@@ -1,0 +1,14 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "rage",
+            "text": "WHY ARE YOU STILL SMIRKING LIKE THAT"
+        },
+        {
+            "text": "CAN'T YOU SEE I'M PISSED OFF RIGHT NOW"
+        }
+    ]
+}

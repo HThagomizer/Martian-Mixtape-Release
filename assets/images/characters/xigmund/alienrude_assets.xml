@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alienrude_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xigmund idle0000" x="0" y="0" width="287" height="629" frameX="0" frameY="-16" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0001" x="0" y="0" width="287" height="629" frameX="0" frameY="-16" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0002" x="287" y="0" width="287" height="624" frameX="0" frameY="-20" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0003" x="287" y="0" width="287" height="624" frameX="0" frameY="-20" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0004" x="574" y="0" width="288" height="628" frameX="0" frameY="-16" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0005" x="574" y="0" width="288" height="628" frameX="0" frameY="-16" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0006" x="862" y="0" width="286" height="640" frameX="-1" frameY="-5" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0007" x="862" y="0" width="286" height="640" frameX="-1" frameY="-5" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0008" x="1148" y="0" width="284" height="644" frameX="-3" frameY="0" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0009" x="1148" y="0" width="284" height="644" frameX="-3" frameY="0" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0010" x="1148" y="0" width="284" height="644" frameX="-3" frameY="0" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0011" x="1148" y="0" width="284" height="644" frameX="-3" frameY="0" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0012" x="1148" y="0" width="284" height="644" frameX="-3" frameY="0" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund idle0013" x="1148" y="0" width="284" height="644" frameX="-3" frameY="0" frameWidth="288" frameHeight="645"/>
+	<SubTexture name="xigmund pain0000" x="1432" y="0" width="330" height="587" frameX="0" frameY="-2" frameWidth="330" frameHeight="589"/>
+	<SubTexture name="xigmund pain0001" x="1432" y="0" width="330" height="587" frameX="0" frameY="-2" frameWidth="330" frameHeight="589"/>
+	<SubTexture name="xigmund pain0002" x="0" y="644" width="326" height="589" frameX="-4" frameY="0" frameWidth="330" frameHeight="589"/>
+	<SubTexture name="xigmund pain0003" x="0" y="644" width="326" height="589" frameX="-4" frameY="0" frameWidth="330" frameHeight="589"/>
+	<SubTexture name="xigmund singDOWN0000" x="326" y="644" width="347" height="591" frameX="0" frameY="-8" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0001" x="326" y="644" width="347" height="591" frameX="0" frameY="-8" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0002" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0003" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0004" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0005" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0006" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0007" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0008" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0009" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0010" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0011" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0012" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0013" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0014" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0015" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0016" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0017" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0018" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0019" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0020" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0021" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0022" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0023" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0024" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0025" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0026" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0027" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0028" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0029" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0030" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0031" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0032" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0033" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0034" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0035" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0036" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0037" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0038" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0039" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0040" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0041" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0042" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0043" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0044" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0045" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0046" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0047" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0048" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0049" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0050" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0051" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0052" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0053" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0054" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0055" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0056" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0057" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0058" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0059" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0060" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund singDOWN0061" x="673" y="644" width="344" height="600" frameX="-3" frameY="0" frameWidth="347" frameHeight="600"/>
+	<SubTexture name="xigmund alt singDOWN0000" x="1017" y="644" width="260" height="591" frameX="0" frameY="-10" frameWidth="260" frameHeight="602"/>
+	<SubTexture name="xigmund alt singDOWN0001" x="1017" y="644" width="260" height="591" frameX="0" frameY="-10" frameWidth="260" frameHeight="602"/>
+	<SubTexture name="xigmund alt singDOWN0002" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0003" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0004" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0005" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0006" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0007" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0008" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0009" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0010" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0011" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0012" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0013" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0014" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0015" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0016" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0017" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0018" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0019" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0020" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0021" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0022" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0023" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0024" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0025" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0026" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0027" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0028" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0029" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0030" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0031" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0032" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0033" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0034" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0035" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0036" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0037" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0038" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0039" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0040" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0041" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0042" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0043" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0044" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0045" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0046" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0047" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0048" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0049" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0050" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0051" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0052" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0053" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0054" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0055" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0056" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0057" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0058" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0059" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0060" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund alt singDOWN0061" x="1277" y="644" width="260" height="602"/>
+	<SubTexture name="xigmund singLEFT0000" x="1537" y="644" width="290" height="644" frameX="0" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0001" x="1537" y="644" width="290" height="644" frameX="0" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0002" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0003" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0004" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0005" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0006" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0007" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0008" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0009" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0010" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0011" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0012" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0013" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0014" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0015" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0016" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0017" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0018" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0019" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0020" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0021" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0022" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0023" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0024" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0025" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0026" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0027" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0028" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0029" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0030" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0031" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0032" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0033" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0034" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0035" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0036" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0037" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0038" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0039" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0040" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0041" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0042" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0043" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0044" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0045" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0046" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0047" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0048" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0049" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0050" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0051" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0052" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0053" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0054" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0055" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0056" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0057" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0058" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0059" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0060" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singLEFT0061" x="0" y="1288" width="286" height="644" frameX="-8" frameY="0" frameWidth="294" frameHeight="644"/>
+	<SubTexture name="xigmund singRIGHT0000" x="286" y="1288" width="338" height="639" frameX="0" frameY="-1" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0001" x="286" y="1288" width="338" height="639" frameX="0" frameY="-1" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0002" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0003" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0004" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0005" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0006" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0007" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0008" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0009" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0010" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0011" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0012" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0013" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0014" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0015" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0016" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0017" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0018" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0019" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0020" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0021" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0022" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0023" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0024" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0025" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0026" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0027" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0028" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0029" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0030" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0031" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0032" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0033" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0034" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0035" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0036" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0037" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0038" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0039" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0040" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0041" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0042" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0043" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0044" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0045" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0046" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0047" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0048" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0049" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0050" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0051" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0052" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0053" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0054" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0055" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0056" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0057" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0058" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0059" x="959" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0060" x="959" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singRIGHT0061" x="624" y="1288" width="335" height="640" frameX="0" frameY="0" frameWidth="338" frameHeight="640"/>
+	<SubTexture name="xigmund singUP0000" x="1294" y="1288" width="286" height="665"/>
+	<SubTexture name="xigmund singUP0001" x="1294" y="1288" width="286" height="665"/>
+	<SubTexture name="xigmund singUP0002" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0003" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0004" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0005" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0006" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0007" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0008" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0009" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0010" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0011" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0012" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0013" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0014" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0015" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0016" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0017" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0018" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0019" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0020" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0021" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0022" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0023" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0024" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0025" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0026" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0027" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0028" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0029" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0030" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0031" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0032" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0033" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0034" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0035" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0036" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0037" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0038" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0039" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0040" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0041" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0042" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0043" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0044" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0045" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0046" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0047" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0048" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0049" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0050" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0051" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0052" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0053" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0054" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0055" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0056" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0057" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0058" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0059" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0060" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+	<SubTexture name="xigmund singUP0061" x="1580" y="1288" width="286" height="661" frameX="0" frameY="-4" frameWidth="286" frameHeight="665"/>
+</TextureAtlas>

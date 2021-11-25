@@ -1,0 +1,14 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "rage",
+            "text": "I HATE RAP BATTLE RULES!!!!!"
+        },
+        {
+            "text": "I'M NOT ALLOWED TO PUNCH PEOPLE WHO PISS \nME OFF!!!!"
+        }
+    ]
+}

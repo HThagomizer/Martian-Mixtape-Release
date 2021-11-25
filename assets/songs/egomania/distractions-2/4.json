@@ -1,0 +1,14 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "rage",
+            "text": "NEXT TIME I'LL BRING A BASEBALL BAT!!!"
+        },
+        {
+            "text": "TRY BEEP BOOPING WITH A CLUBBED SKULL!!!"
+        }
+    ]
+}

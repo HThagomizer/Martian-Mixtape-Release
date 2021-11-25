@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "ugh",
+            "text": "It was a pain to get that statue in here. Most \nplaces don't deliver to lairs."
+        },
+        {
+            "expression": "normal",
+            "text": "I actually look like that, y'know. It's real!"
+        }
+    ]
+}

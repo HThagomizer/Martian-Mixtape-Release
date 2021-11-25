@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "ugh",
+            "text": "Are you listening to me?? Y'know, it hurts \nmy feelings when you ignore me!"
+        },
+        {
+            "expression": "ugh",
+            "text": "You better not be skipping through all of \nthis text."
+        }
+    ]
+}

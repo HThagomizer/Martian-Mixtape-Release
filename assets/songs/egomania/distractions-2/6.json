@@ -1,0 +1,15 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "rage",
+            "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+        },
+        {
+            "expression": "normal",
+            "text": "...Felt good to let that out. \nBut I'm STILL ANGRY!!!"
+        }
+    ]
+}

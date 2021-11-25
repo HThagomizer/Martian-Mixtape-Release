@@ -1,0 +1,14 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "hank",
+            "expression": "rage",
+            "text": "You have NO IDEA how mad I am right now."
+        },
+        {
+            "text": "Maybe you do, actually, because my skin is red, \nbut FUCK YOU!!!"
+        }
+    ]
+}
